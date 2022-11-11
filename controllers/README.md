@@ -11,3 +11,5 @@ CLOUDINARY_CLOUD_NAME=cloudbucket
 CLOUDINARY_API_KEY=583638378746911
 CLOUDINARY_API_SECRET=ZnezkYnCUErerhatAXaH1OL3njA
 TOKEN_SECRET = jskhwoeivsasdjhqpbcaljsbdalsds
+
+https://www.postman.com/shankarcj/workspace/agrigo/collection/5090521-e64c37fb-164e-49c2-a3c9-ff61866ac97b?action=share&creator=5090521
